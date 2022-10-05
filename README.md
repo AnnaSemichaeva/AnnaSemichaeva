@@ -1,7 +1,11 @@
 <h1 align="center"> Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> </h1> 
 
+
+
 <!--
 <h1 align="center"> Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> </h1> 
+
+<img align="center" src="https://github.com/AnnaSemichaeva/AnnaSemichaeva/blob/output/github-contribution-grid-snake.svg" />
 
 Here are some ideas to get you started:
 
