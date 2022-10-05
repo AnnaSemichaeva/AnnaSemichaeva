@@ -1,7 +1,7 @@
-### Hi there 👋
+<h1 align="center"> Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> </h1> 
 
 <!--
-**AnnaSemichaeva/AnnaSemichaeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"> Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> </h1> 
 
 Here are some ideas to get you started:
 
