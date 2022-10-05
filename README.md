@@ -10,7 +10,7 @@
 
 
 
-
+<p align="center"><img src="https://github.com/AnnaSemichaeva/AnnaSemichaeva/blob/output/github-contribution-grid-snake.svg" /></p>
 
 <!--
 <h1 align="center"> Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> </h1> 
