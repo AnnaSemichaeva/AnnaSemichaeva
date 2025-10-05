@@ -10,7 +10,7 @@
 
 
 
-<p align="center"><img src="https://github.com/AnnaSemichaeva/AnnaSemichaeva/blob/output/github-contribution-grid-snake.svg" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/AnnaSemichaeva/AnnaSemichaeva/output/dist/github-contribution-grid-snake.svg" /></p>
 
 <!--
 Here are some ideas to get you started:
