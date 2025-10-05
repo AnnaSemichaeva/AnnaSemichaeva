@@ -11,7 +11,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnnaSemichaeva/AnnaSemichaeva/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/AnnaSemichaeva/AnnaSemichaeva/output/dist/github-contribution-grid-snake.svg" />
 </p>
 
 <!--
