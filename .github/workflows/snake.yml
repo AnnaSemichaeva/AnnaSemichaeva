@@ -20,9 +20,7 @@ jobs:
         uses: Platane/snk@master
         with:
           github_user_name: AnnaSemichaeva
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
-          outputs: dist/
+          outputs: dist/snake.svg
 
       - name: Push to output branch
         run: |
