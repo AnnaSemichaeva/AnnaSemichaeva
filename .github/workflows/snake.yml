@@ -20,13 +20,12 @@ jobs:
         uses: Platane/snk@master
         with:
           github_user_name: AnnaSemichaeva
-          outputs: dist/snake.svg
+          outputs: snake.svg
 
       - name: Push to output branch
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add dist/
-          git commit -m "Update snake" || exit 0
-          git push origin output || git push -u origin output
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: output
+          force: true
 
